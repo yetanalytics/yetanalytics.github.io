@@ -12,12 +12,17 @@ Welcome to the wild world of the Yet Analytics Github.
 ** Projects
 
 *** [[https://github.com/yetanalytics/xapi-schema][xapi-schema]]
-    A declarative schema for validating xAPI statements. Try the demo
-    [[http://yetanalytics.github.io/xapi-schema-demo/][here]].
+A declarative schema for validating xAPI statements. Try the demo
+[[http://yetanalytics.github.io/xapi-schema-demo/][here]].
 
 *** [[https://github.com/yetanalytics/re-pl][re-pl]]
-    An interactive ClojureScript REPL in the browser, based on replumb
-    and re-frame. Try it [[http://yetanalytics.github.io/re-pl/][here]].
+An interactive ClojureScript REPL in the browser, based on replumb
+and re-frame. Try it [[http://yetanalytics.github.io/re-pl/][here]].
+
+Or here:
+#+BEGIN_HTML
+<iframe src="http://yetanalytics.github.io/re-pl/"></iframe>
+#+END_HMTL
 
 *** [[https://github.io/xapisec/xapisec][xAPIsec]]
-    A community-driven specification for xAPI security
+A community-driven specification for xAPI security
