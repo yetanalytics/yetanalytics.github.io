@@ -21,7 +21,7 @@ and re-frame. Try it [[http://yetanalytics.github.io/re-pl/][here]].
 
 Or here:
 
-#+HTML: <iframe src="http://yetanalytics.github.io/re-pl/"></iframe>
+#+HTML: <iframe src="http://yetanalytics.github.io/re-pl/" width="800px" height="600px"></iframe>
 
 
 *** [[https://github.io/xapisec/xapisec][xAPIsec]]
