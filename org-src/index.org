@@ -3,7 +3,9 @@
 #+EMAIL: jason@yetanalytics.com
 
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="resources/css/style.css"/>
+#+HTML_HEAD: <script src="http://orgmode.org/org-info.js"/>
 
+#+INFOJS_OPT: view:info toc:nil
 
 Welcome to the wild world of the Yet Analytics Github.
 
