@@ -1,0 +1,45 @@
+# -*- mode: org; -*-
+
+#+TITLE: Yet Analytics
+#+AUTHOR: Jason Lewis
+#+EMAIL: jason@yetanalytics.com
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="resources/css/style.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.pirilampo.org/styles/bigblow/css/htmlize.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.pirilampo.org/styles/bigblow/css/bigblow.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.pirilampo.org/styles/bigblow/css/hideshow.css"/>
+
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/bigblow/js/jquery-1.11.0.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/bigblow/js/jquery-ui-1.10.2.min.js"></script>
+
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/bigblow/js/jquery.localscroll-min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/bigblow/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/bigblow/js/jquery.zclip.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/bigblow/js/bigblow.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/bigblow/js/hideshow.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/lib/js/jquery.stickytableheaders.min.js"></script>
+
+
+
+
+Welcome to the wild world of the Yet Analytics Github.
+
+
+
+** Projects
+
+*** [[https://github.com/yetanalytics/xapi-schema][xapi-schema]]
+A declarative schema for validating xAPI statements. Try the demo
+[[http://yetanalytics.github.io/xapi-schema-demo/][here]].
+
+*** [[https://github.com/yetanalytics/re-pl][re-pl]]
+An interactive ClojureScript REPL in the browser, based on replumb
+and re-frame. Try it [[http://yetanalytics.github.io/re-pl/][here]].
+
+Or here:
+
+#+HTML: <iframe src="http://yetanalytics.github.io/re-pl/" width="800px" height="600px"></iframe>
+
+
+*** [[https://github.io/xapisec/xapisec][xAPIsec]]
+A community-driven specification for xAPI security
